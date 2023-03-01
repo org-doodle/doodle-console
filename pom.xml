@@ -14,5 +14,8 @@
   <packaging>pom</packaging>
   <modules>
     <module>doodle-console-bom</module>
+    <module>doodle-console-server</module>
+    <module>doodle-console-server-core</module>
+    <module>doodle-starter-console-server</module>
   </modules>
 </project>

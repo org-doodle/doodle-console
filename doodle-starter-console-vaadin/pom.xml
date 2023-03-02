@@ -10,14 +10,14 @@
     <version>0.0.1-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
-  <artifactId>doodle-starter-console-server</artifactId>
+  <artifactId>doodle-starter-console-vaadin</artifactId>
   <properties>
     <spotless.skip>false</spotless.skip>
   </properties>
   <dependencies>
     <dependency>
       <groupId>org.doodle</groupId>
-      <artifactId>doodle-console-server-core</artifactId>
+      <artifactId>doodle-console-vaadin</artifactId>
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>

@@ -51,12 +51,22 @@
       </dependency>
       <dependency>
         <groupId>org.doodle</groupId>
+        <artifactId>doodle-console-vaadin</artifactId>
+        <version>${project.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.doodle</groupId>
         <artifactId>doodle-starter-console-client</artifactId>
         <version>${project.version}</version>
       </dependency>
       <dependency>
         <groupId>org.doodle</groupId>
         <artifactId>doodle-starter-console-server</artifactId>
+        <version>${project.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.doodle</groupId>
+        <artifactId>doodle-starter-console-vaadin</artifactId>
         <version>${project.version}</version>
       </dependency>
     </dependencies>

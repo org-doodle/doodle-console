@@ -17,7 +17,9 @@
     <module>doodle-console-client</module>
     <module>doodle-console-server</module>
     <module>doodle-console-server-core</module>
+    <module>doodle-console-vaadin</module>
     <module>doodle-starter-console-client</module>
     <module>doodle-starter-console-server</module>
+    <module>doodle-starter-console-vaadin</module>
   </modules>
 </project>
